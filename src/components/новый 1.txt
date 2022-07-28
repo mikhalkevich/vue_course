@@ -1,0 +1,6 @@
+Backend
+ linux
+ docker
+ языки программирования: PHP, Node, Java, Python...
+ БД, СУБД
+ Laravel
